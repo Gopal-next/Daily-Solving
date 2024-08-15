@@ -10,7 +10,7 @@ Linked list is Non-contagious where memory allocated one by one and also having 
 ## Question
 
 '''
-Link :-    https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
+[Click Here to See the Question](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
 '''
 
 ## Add 1 to a Linked List Number
