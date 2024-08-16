@@ -27,6 +27,7 @@ Iterate Through Arrays: Starting from the second array, for each array:
 Return Result: After iterating through all arrays, return max_distance
 '''
 # Complexity
+
 # - Time complexity:
 '''
 The time complexity of this solution is O(m), where m is the number of arrays. We only iterate through the arrays once, performing constant-time operations at each step.
