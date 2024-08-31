@@ -3,9 +3,9 @@ class Solution:
         if len(nums) < 2:
             return 0
         nums.sort()
-        maxx = float('-inf')
+        maxxx = float('-inf')
         for i in range(len(nums)-1):
             new = nums[i+1] - nums[i]
-            if new  > maxx:
-                maxx= new
-        return maxx
+            if new  > maxxx:
+                maxxx= new
+        return maxxx
